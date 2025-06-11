@@ -47,15 +47,6 @@ Student Grade Analyzer – Data-driven insights from academic performance
   <br><em>Learning C++ be like...</em>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/ltSn6Y2.jpeg" height="200px" title="Debugging midnight" alt="Meme 2"/>
-  <br><em>When it compiles but the output is wrong</em>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/9pR5i90.jpeg" height="200px" title="Python lovers" alt="Meme 3"/>
-  <br><em>Python: making life easier one indent at a time</em>
-</p>
 
 ---
 
