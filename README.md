@@ -50,10 +50,12 @@ Student Grade Analyzer – Data-driven insights from academic performance
 
 ---
 
-📫 Let's Connect
-💼 LinkedIn: https://www.linkedin.com/in/saim-barkat-73a59035a/
-📧 Email: saimbarkat971@gmail.com
-🌐 Portfolio: Coming soon
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/saim-barkat-73a59035a/)
+- 📧 [Email](mailto:saimbarkat971@gmail.com)
+- 🌐 **Portfolio:** _Coming Soon_
+
 
 ---
 
