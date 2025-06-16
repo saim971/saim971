@@ -51,9 +51,8 @@ Student Grade Analyzer – Data-driven insights from academic performance
 ---
 
 📫 Let's Connect
-💼 LinkedIn: [YourLinkedIn](#)
-📧 Email: you@example.com
-📷 Instagram: [@yourhandle](#)
+💼 LinkedIn: https://www.linkedin.com/in/saim-barkat-73a59035a/
+📧 Email: saimbarkat971@gmail.com
 🌐 Portfolio: Coming soon
 
 ---
