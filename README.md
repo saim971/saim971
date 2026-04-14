@@ -26,7 +26,7 @@
 
 ---
 
-💼 Goals for 2025
+💼 Goals for 2026
 ✅ Master core DSA concepts
 ✅ Publish at least 3 data science mini-projects on GitHub
 ⏳ Contribute to Open Source
